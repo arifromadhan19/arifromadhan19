@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Arif Romadhan as Senior Data Scientist
+My hobby is with a movie
 
 <!--
 **arifromadhan19/arifromadhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
